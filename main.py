@@ -1,3 +1,5 @@
+import random
+
 # str  = input()
 # if str == str[::-1]:
 #   print("Ваше слово является палиндромом")
@@ -10,4 +12,28 @@
 #   text = text.replace(word, word.upper())
 #   print(text)
 
-text = "Есть некоторый текст. Посчитайте в этом тексте количество предложений и выведите на экран полученный результат."
+# text = 'Есть некоторый текст. Посчитайте в этом тексте количество предложений и выведите на экран полученный результат.'
+
+# x = input('введите выражение, например: 1+1\n')
+
+# numbers = [random.randint(-30, 30) for i in range(30)]
+# min_number = min(numbers)
+# max_number = max(numbers)
+# count_min = 0
+# count_max = 0
+# count_zero = 0
+# for num in numbers:
+#   if num < 0:
+#     count_min += 1
+# for num in numbers:
+#   if num > 0:
+#     count_max += 1
+# for num in numbers:
+#   if num == 0:
+#     count_zero += 1
+# print(numbers)
+# print(min_number)
+# print(max_number)
+# print('Кол-во отрицательных чисел', count_min)
+# print('Кол-во положительных чисел', count_max)
+# print('Кол-во нулей', count_zero)
