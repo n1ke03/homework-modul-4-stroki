@@ -12,10 +12,6 @@ import random
 #   text = text.replace(word, word.upper())
 #   print(text)
 
-# text = 'Есть некоторый текст. Посчитайте в этом тексте количество предложений и выведите на экран полученный результат.'
-
-# x = input('введите выражение, например: 1+1\n')
-
 # numbers = [random.randint(-30, 30) for i in range(30)]
 # min_number = min(numbers)
 # max_number = max(numbers)
